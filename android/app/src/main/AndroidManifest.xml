@@ -19,7 +19,7 @@
         android:label="auth_test"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyD0kicDXCzV3381ErxS0nCzrNFtK55v148"/>
+               android:value="YOUR API HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
